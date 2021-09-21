@@ -66,6 +66,10 @@ up-5px {
     top:-5px;
 }
 
+hr {
+    display: block; margin-before: 0.5em; margin-after: 0.5em; margin-start: auto; margin-end: auto; overflow: hidden; border-style: inset; border-width: 1px;
+}
+
 navbar {
     overflow: hidden;
     background-color: rgb(119, 119, 119);
