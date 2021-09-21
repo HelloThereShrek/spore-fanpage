@@ -43,6 +43,16 @@ body-text-bi {
     word-wrap: normal;
 }
 
+a {
+    color: rgb(43, 158, 235);
+    font-size: 20px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+span {
+    word-wrap: normal;
+}
+
 up-1px {
     position: relative;
     top:-1px;
